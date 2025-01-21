@@ -1,0 +1,25 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Django settings
+*.sqlite3
+*.env
+
+# Environment folders
+.venv/
+env/
+
+# Logs
+*.log
+
+# Static and media files
+/staticfiles/
+/media/
+
+# IDE settings (optional)
+.vscode/
+.idea/
+
+# MacOS files
+.DS_Store
